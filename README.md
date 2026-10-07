@@ -35,7 +35,7 @@
 
 | Проект | Что это | Стек |
 |---|---|---|
-| [**Атмосфера Мебель**](https://github.com/pogl2007/atmosheremeb) · [atmospheremeb.ru](https://atmospheremeb.ru) | Сайт мебельной мастерской в продакшене: каталог на 137 моделей, заявки, ИИ-консультант, админка. Статическая сборка в 148 страниц и бэкенд на Go | Go, SQLite, HTML/CSS/JS |
+| [**Атмосфера Мебель**](https://github.com/pogl2007/atmosheremeb) · [atmospheremeb.ru](https://atmospheremeb.ru) | Сайт мебельной мастерской в продакшене: каталог на 137 моделей, заявки, ИИ-консультант, админка. Статическая сборка в 148 страниц и небольшой бэкенд для заявок и админки | SQLite, HTML/CSS/JS |
 | [**Wallet API**](https://github.com/pogl2007/wallet) | REST API кошельков: 10 эндпоинтов, JWT, асинхронный PostgreSQL, миграции, тесты с подменой БД | FastAPI, SQLAlchemy 2.0, Alembic, Docker, pytest |
 
 ---
@@ -51,5 +51,5 @@
 **Бэкенд и инструменты:** FastAPI · SQLAlchemy 2.0 · Alembic · PostgreSQL · Redis · Docker · pytest · Linux · Git · Streamlit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,redis,docker,linux,go,ts,nextjs,git" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,postgres,redis,docker,linux,ts,nextjs,git" />
 </p>
